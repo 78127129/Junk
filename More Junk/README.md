@@ -1,1 +1,1 @@
-Modified version of PanzerObserver2.4 for AliExpress special (https://www.aliexpress.com/i/32898413562.html)
+A modified version of PanzerObserver2.4 (https://github.com/Slidr666/VoronUsers/tree/18599db8c29c9a272f852d1dac9ad5d014d0a496/printer_mods/Slidr/PanzerObserver2.4) to fit AliExpress special (https://www.aliexpress.com/i/32898413562.html)
